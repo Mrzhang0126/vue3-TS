@@ -4,7 +4,7 @@ import utc from 'dayjs/plugin/utc';
 dayjs.extend(utc);
 
 const DATE_TIME_FORMAT = 'YYYY-MM-DD HH:mm:ss';
-const DATE_FORMAT = 'YYYY-MM-DD';
+// const DATE_FORMAT = 'YYYY-MM-DD';
 
 export function formatUtcString(
   utcString: string,
