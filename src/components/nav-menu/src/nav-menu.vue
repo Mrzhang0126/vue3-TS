@@ -43,7 +43,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, computed, ref } from 'vue';
+import { defineComponent, computed } from 'vue';
 import { useStore } from '@/store';
 // import { useRoute, useRouter } from 'vue-router';
 // import { pathMapToMenu } from '@/utils/map-menus';
